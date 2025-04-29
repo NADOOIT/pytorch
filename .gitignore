@@ -375,6 +375,7 @@ third_party/glog/
 
 # Virtualenv
 venv/
+.venv_gqa/
 
 # Log files
 *.log
